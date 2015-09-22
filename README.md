@@ -9,7 +9,7 @@
 For Laravel 4.2 version, see https://github.com/ollieread/multiauth
 
 --------------------------------------------------------------------------------------------------
-
+test.
 **IMPORTANT: Laravel 5.1**
 Default AuthController with its traits
 
